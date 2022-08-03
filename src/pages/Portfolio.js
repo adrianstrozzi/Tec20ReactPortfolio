@@ -1,10 +1,10 @@
-import classes from './Portfolio.module.css'
+import './Portfolio.css'
 
 const Portfolio = () => {
   return (
     <>
-      <div className={classes.titlePage}>
-        <h1>WELCOME TO MY REACT CV</h1>
+      <div className='title-page mt-5'>
+        <h1>PORTFOLIO</h1>
       </div>
     </>
   )

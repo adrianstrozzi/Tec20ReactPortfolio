@@ -1,0 +1,19 @@
+.title-page h1 {
+  font-size: 30px;
+  background: linear-gradient(to right, #0575e6, #00f260);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 1180px) {
+  .textDark {
+    padding: 20px 0px 10px 0px;
+  }
+  .textDark p {
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 35px;
+  }
+}
