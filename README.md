@@ -27,7 +27,7 @@ Use this `link` to access my React Portfolio: [Adrian Strozzi - React Portfolio]
 
 ## <span style="color:violet">Usage</span>
 
-Use the `Navbar` to go to the different secrtions of the page:
+Use the `Navbar` to go to the different sections of the page:
 
 ![mainpage](./src/assets/readme-images/navbar.png)
 
