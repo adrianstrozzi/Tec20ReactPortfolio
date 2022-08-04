@@ -1,18 +1,18 @@
 import { Route, Switch, Redirect } from 'react-router-dom'
 
-import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
+import Header from './components/Header';
 
 
 function App() {
   return (
     <div>
-      <Navbar />
+      <Header />
       <Switch>
         <Route
           // Used to default / to the homepage
