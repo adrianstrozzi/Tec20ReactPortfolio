@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ccc7638f.css",
-    "main.js": "/react-portfolio/static/js/main.2a210143.js",
-    "static/media/profile.jpg": "/react-portfolio/static/media/profile.757dbc91f446dd674a5a.jpg",
-    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.0e2691c77f0a7471dabb.png",
-    "static/media/co2-calc.png": "/react-portfolio/static/media/co2-calc.53fc2eeb002dddf23a39.png",
-    "static/media/readme-generator.png": "/react-portfolio/static/media/readme-generator.33223af901c7cb2078be.png",
-    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.9cd241fb96af090896a2.png",
-    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.ccbf2300fc3378d2977e.png",
-    "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.bc0b5988c2b524f0446f.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.ccc7638f.css.map": "/react-portfolio/static/css/main.ccc7638f.css.map",
-    "main.2a210143.js.map": "/react-portfolio/static/js/main.2a210143.js.map"
+    "main.css": "/Tec20ReactPortfolio/static/css/main.ccc7638f.css",
+    "main.js": "/Tec20ReactPortfolio/static/js/main.5efee2cf.js",
+    "static/media/profile.jpg": "/Tec20ReactPortfolio/static/media/profile.757dbc91f446dd674a5a.jpg",
+    "static/media/weather-dashboard.png": "/Tec20ReactPortfolio/static/media/weather-dashboard.0e2691c77f0a7471dabb.png",
+    "static/media/co2-calc.png": "/Tec20ReactPortfolio/static/media/co2-calc.53fc2eeb002dddf23a39.png",
+    "static/media/readme-generator.png": "/Tec20ReactPortfolio/static/media/readme-generator.33223af901c7cb2078be.png",
+    "static/media/password-generator.png": "/Tec20ReactPortfolio/static/media/password-generator.9cd241fb96af090896a2.png",
+    "static/media/note-taker.png": "/Tec20ReactPortfolio/static/media/note-taker.ccbf2300fc3378d2977e.png",
+    "static/media/employee-tracker.png": "/Tec20ReactPortfolio/static/media/employee-tracker.bc0b5988c2b524f0446f.png",
+    "index.html": "/Tec20ReactPortfolio/index.html",
+    "main.ccc7638f.css.map": "/Tec20ReactPortfolio/static/css/main.ccc7638f.css.map",
+    "main.5efee2cf.js.map": "/Tec20ReactPortfolio/static/js/main.5efee2cf.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc7638f.css",
-    "static/js/main.2a210143.js"
+    "static/js/main.5efee2cf.js"
   ]
 }
