@@ -7,16 +7,16 @@ const Navbar = () => {
     <nav className='flex basis-4/5'>
       <ul className='navbar-container flex w-full justify-evenly'>
         <li className='hover:text-yellow-400'>
-          <Link to="/home">About</Link>
+          <Link to="/Tec20ReactPortfolio/home">About</Link>
         </li>
         <li className='hover:text-yellow-400'>
-          <Link to="/portfolio">Portfolio</Link>
+          <Link to="/Tec20ReactPortfolio/portfolio">Portfolio</Link>
         </li>
         <li className='hover:text-yellow-400'>
-          <Link to="/contact">Contact</Link>
+          <Link to="/Tec20ReactPortfolio/contact">Contact</Link>
         </li>
         <li className='hover:text-yellow-400'>
-          <Link to="/resume">Resume</Link>
+          <Link to="/Tec20ReactPortfolio/resume">Resume</Link>
         </li>
       </ul>
     </nav>

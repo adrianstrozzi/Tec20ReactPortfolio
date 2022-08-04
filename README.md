@@ -23,7 +23,7 @@
 
 ## <span style="color:violet">Video Tutorial</span>
 
-Use this `link` to access my React Portfolio: [Adrian Strozzi - React Portfolio](new)
+Use this `link` to access my React Portfolio: [Adrian Strozzi - React Portfolio](https://adrianstrozzi.github.io/Tec20ReactPortfolio)
 
 ## <span style="color:violet">Usage</span>
 

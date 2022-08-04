@@ -16,17 +16,17 @@ function App() {
       <Switch>
         <Route
           // Used to default / to the homepage
-          exact path="/"
+          exact path="/Tec20ReactPortfolio/"
           render={() => {
             return (
-              <Redirect to="/home" />
+              <Redirect to="/Tec20ReactPortfolio/home" />
             )
           }}
         />
-        <Route path="/home" component={About} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/resume" component={Resume} />
+        <Route path="/Tec20ReactPortfolio/home" component={About} />
+        <Route path="/Tec20ReactPortfolio/portfolio" component={Portfolio} />
+        <Route path="/Tec20ReactPortfolio/contact" component={Contact} />
+        <Route path="/Tec20ReactPortfolio/resume" component={Resume} />
       </Switch >
       <Footer />
     </div >
