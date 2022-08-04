@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# <span style="color:skyblue">**React Portfolio**</span>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## <span style="color:violet">Table of Contents</span>
 
-## Available Scripts
+1. [Description](#Description)
+2. [Stack](#Stack)
+3. [Video Tutorial](#Video-Tutorial)
+4. [Usage](#Usage)
+5. [Credits](#Credits)
+6. [License](#License)
 
-In the project directory, you can run:
+## <span style="color:violet">Description</span>
 
-### `npm start`
+> Welcome to my React Portfolio! This page uses React Router and React Components to create a seamless browsing experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <span style="color:violet">Stack</span>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<span style="color:skyblue">**1 - React**</span> [(link)](https://reactjs.org/)
 
-### `npm test`
+<span style="color:skyblue">**2 - CSS**</span> [(link)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<span style="color:skyblue">**3 - Tailwind**</span> [(link)](https://tailwindcss.com/)
 
-### `npm run build`
+## <span style="color:violet">Video Tutorial</span>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Use this `link` to access my React Portfolio: [Adrian Strozzi - React Portfolio](new)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## <span style="color:violet">Usage</span>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Use the `Navbar` to go to the different secrtions of the page:
 
-### `npm run eject`
+![mainpage](./src/assets/readme-images/navbar.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+`Main/About` page:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![mainpage](./src/assets/readme-images/about.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+`Portfolio` page:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![mainpage](./src/assets/readme-images/portfolio.png)
 
-## Learn More
+You can click in the images of the `Apps` to go to the deployed page or click in the `GitHub icon` to go to the GitHub repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![mainpage](./src/assets/readme-images/app.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![mainpage](./src/assets/readme-images/github-repo.png)
 
-### Code Splitting
+`Contact` page:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![mainpage](./src/assets/readme-images/contact.png)
 
-### Analyzing the Bundle Size
+You can click in the `email` to open your default email App and compose an email:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![mainpage](./src/assets/readme-images/email.png)
 
-### Making a Progressive Web App
+`Resume` page:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![mainpage](./src/assets/readme-images/resume.png)
 
-### Advanced Configuration
+You can click in the `Open Resume` to open a PDF resume and click in any of the `Stack` options to open their `mainpage/documentation`:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![mainpage](./src/assets/readme-images/open-resume.png)
 
-### Deployment
+![mainpage](./src/assets/readme-images/stack.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The `Footer` contains icons to visit my `GitHub`, `LinkedIn` and `YouTube` profiles:
 
-### `npm run build` fails to minify
+![mainpage](./src/assets/readme-images/footer.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## <span style="color:violet">Credits</span>
+
+**Adrian Strozzi:** [https://github.com/adrianstrozzi](https://github.com/adrianstrozzi)
+
+## <span style="color:violet">License</span>
+
+**© 2022 Adrian Strozzi**:zap:

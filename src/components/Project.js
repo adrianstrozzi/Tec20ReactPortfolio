@@ -7,11 +7,11 @@ const Project = (props) => {
       <div
         class="card-body transition hover:duration-300 hover:bg-gray-200 flex flex-col p-5 rounded-3xl shadow-lg bg-gray-300 items-center">
         <a href={props.applink} target="_blank" rel="noreferrer">
-          <img src={props.image} class="rounded-xl object-contain h-28 w-70" alt="screenshot"></img>
+          <img src={props.image} class="rounded-xl object-contain h-28 w-70 hover:border-4 hover:ring-blue-500 hover:border-blue-500" alt="screenshot"></img>
         </a>
         <h5 class="text-fuchsia-600 text-xl my-4 font-bold uppercase">{props.title}</h5>
         <a href={props.githublink} target="_blank" rel="noreferrer">
-          <svg className="w-8 h-8 fill-white hover:opacity-75" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <svg className="w-8 h-8 fill-white hover:fill-gray-500" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 
             0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 
             3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 
