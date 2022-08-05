@@ -4,7 +4,7 @@
 
 1. [Description](#Description)
 2. [Stack](#Stack)
-3. [Video Tutorial](#Video-Tutorial)
+3. [App Link](#App-Link)
 4. [Usage](#Usage)
 5. [Credits](#Credits)
 6. [License](#License)
@@ -21,7 +21,7 @@
 
 <span style="color:skyblue">**3 - Tailwind**</span> [(link)](https://tailwindcss.com/)
 
-## <span style="color:violet">Video Tutorial</span>
+## <span style="color:violet">App Link</span>
 
 Use this `link` to access my React Portfolio: [Adrian Strozzi - React Portfolio](https://adrianstrozzi.github.io/Tec20ReactPortfolio)
 
