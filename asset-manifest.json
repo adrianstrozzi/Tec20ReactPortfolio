@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tec20ReactPortfolio/static/css/main.ccc7638f.css",
-    "main.js": "/Tec20ReactPortfolio/static/js/main.f810fdf1.js",
+    "main.css": "/Tec20ReactPortfolio/static/css/main.e6ea9d8a.css",
+    "main.js": "/Tec20ReactPortfolio/static/js/main.660b0aeb.js",
     "static/media/profile.jpg": "/Tec20ReactPortfolio/static/media/profile.757dbc91f446dd674a5a.jpg",
     "static/media/weather-dashboard.png": "/Tec20ReactPortfolio/static/media/weather-dashboard.0e2691c77f0a7471dabb.png",
     "static/media/co2-calc.png": "/Tec20ReactPortfolio/static/media/co2-calc.53fc2eeb002dddf23a39.png",
@@ -10,11 +10,11 @@
     "static/media/note-taker.png": "/Tec20ReactPortfolio/static/media/note-taker.ccbf2300fc3378d2977e.png",
     "static/media/employee-tracker.png": "/Tec20ReactPortfolio/static/media/employee-tracker.bc0b5988c2b524f0446f.png",
     "index.html": "/Tec20ReactPortfolio/index.html",
-    "main.ccc7638f.css.map": "/Tec20ReactPortfolio/static/css/main.ccc7638f.css.map",
-    "main.f810fdf1.js.map": "/Tec20ReactPortfolio/static/js/main.f810fdf1.js.map"
+    "main.e6ea9d8a.css.map": "/Tec20ReactPortfolio/static/css/main.e6ea9d8a.css.map",
+    "main.660b0aeb.js.map": "/Tec20ReactPortfolio/static/js/main.660b0aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccc7638f.css",
-    "static/js/main.f810fdf1.js"
+    "static/css/main.e6ea9d8a.css",
+    "static/js/main.660b0aeb.js"
   ]
 }
